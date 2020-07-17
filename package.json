@@ -1,0 +1,15 @@
+{
+  "name": "CypressE2E",
+  "version": "1.0.0",
+  "description": "is Descriptive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "None",
+  "devDependencies": {
+    "cypress": "^4.10.0"
+  }
+}
